@@ -7,3 +7,8 @@
   from = "/privacidad"
   to = "/privacidad/index.html"
   status = 200
+
+[[redirects]]
+  from = "/terminos"
+  to = "/terminos/index.html"
+  status = 200

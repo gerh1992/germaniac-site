@@ -28,5 +28,6 @@ netlify deploy --prod --dir public
 Este repo provee:
 - **Homepage URL:** `https://germaniac.com.ar/`
 - **Privacy policy URL:** `https://germaniac.com.ar/privacidad`
+- **Terms of Service URL:** `https://germaniac.com.ar/terminos`
 
 Usados para publicar la app OAuth de Google de Testing a Producción.
