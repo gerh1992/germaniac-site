@@ -1,0 +1,9 @@
+# Netlify config para germaniac.com.ar
+[build]
+  publish = "public"
+
+# Redirects: /privacidad -> archivo real
+[[redirects]]
+  from = "/privacidad"
+  to = "/privacidad/index.html"
+  status = 200

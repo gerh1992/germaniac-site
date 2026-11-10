@@ -1,0 +1,4 @@
+# Dependencias de Netlify CLI (solo para deploy manual; opcional)
+node_modules/
+.netlify/
+*.log
